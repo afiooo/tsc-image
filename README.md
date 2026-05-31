@@ -1,12 +1,12 @@
-# Z-Image 终极工坊 Pro · 人像专区
+# Z-Image -人像专区
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Web-orange.svg)]()
 [![Single File](https://img.shields.io/badge/file-Single%20HTML-brightgreen.svg)]()
 
-`Z-Image 终极工坊 Pro (人像专区)` 是一款专为 AI 绘图（Midjourney / Stable Diffusion 等）创作者设计的**单文件、免安装、可本地运行**的提示词管理与灵感激发工具。
+`Z-Image-人像专区` 是一款专为 AI 绘图（Midjourney / Stable Diffusion 等）创作者设计的**单文件、免安装、可本地运行**的提示词管理与灵感激发工具。
 
-本版本为纯净精炼版，彻底剥离冗余模块，仅保留核心的**“人像专区（灵感画廊）”**，提供极致流畅的提示词浏览、实时编辑与快速复制体验。
+本版本为人像提示词专区，提供极致流畅的提示词浏览、实时编辑与快速复制体验。
 
 ---
 
